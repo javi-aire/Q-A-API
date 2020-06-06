@@ -3,7 +3,8 @@ Teespring tech assessment
 
 
 ## To Run
-Install necessary packages w/ `npm i`, then run with `npm start`
+* Install necessary packages w/ `npm i`, then run with `npm start`
+* `/get/practice/problem` is the route that runs everything (right now)
 
 
 ### NOTE:
